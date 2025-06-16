@@ -788,3 +788,4 @@ events.out.tfevents.*
 
 # 데이터셋 폴더 
 data/
+split_dataset/
